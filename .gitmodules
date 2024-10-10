@@ -1,0 +1,3 @@
+[submodule "bb/node-bulletin-board"]
+	path = bb/node-bulletin-board
+	url = https://github.com/dockersamples/node-bulletin-board
